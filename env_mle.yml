@@ -1,0 +1,15 @@
+# conda remove --name mle --all -y
+# conda env create -f env_mle.yml
+# conda activate mle
+name: mle
+dependencies:
+    - pip
+    - python=3.8
+    - pandas
+    - jupyter
+    - black
+    - Flask
+    - plotly
+    # - pip:
+    #   -
+    
