@@ -1,0 +1,5 @@
+pandas
+jupyter
+black
+Flask
+plotly

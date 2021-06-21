@@ -57,7 +57,11 @@ def index():
         "index.html", ids=ids, figuresJSON=figuresJSON, graphJSON=graphJSON
     )
 
+
 if __name__ == "__main__":
     print("figures", figures, "", sep="\n")
     print("fig", fig, "", sep="\n")
 
+# TODO 21.06.21 Serve app on AWS
+# https://aws.amazon.com/de/getting-started/hands-on/serve-a-flask-app/
+# https://www.youtube.com/watch?v=dhHOzye-Rms
