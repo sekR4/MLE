@@ -23,7 +23,7 @@ def prepared_data():
     ]
     df = df[df["Country Name"].isin(countrylist)]
 
-    cols = df.columns[-12:-2]
+    cols = df.columns[-12:-2]  # 2010 - 2019
     df.columns[0]
     cols = list(cols.insert(0, df.columns[0]))
     df_new = df[cols]
