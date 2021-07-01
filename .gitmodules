@@ -1,0 +1,6 @@
+[submodule "sagemaker-deployment"]
+	path = sagemaker-deployment
+	url = https://github.com/sekR4/sagemaker-deployment
+[submodule "deep-learning-v2-pytorch"]
+	path = deep-learning-v2-pytorch
+	url = https://github.com/sekR4/deep-learning-v2-pytorch
