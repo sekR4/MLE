@@ -4,3 +4,6 @@
 [submodule "deep-learning-v2-pytorch"]
 	path = deep-learning-v2-pytorch
 	url = https://github.com/sekR4/deep-learning-v2-pytorch
+[submodule "ML_SageMaker_Studies"]
+	path = ML_SageMaker_Studies
+	url = https://github.com/sekR4/ML_SageMaker_Studies.git
